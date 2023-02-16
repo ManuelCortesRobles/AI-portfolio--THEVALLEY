@@ -1,8 +1,11 @@
-# Machine-Learning_THEVALLEY
-NOTEBOOKS de clase PYTHON
+# Machine_Learning_THEVALLEY
 
-13/02/2023 --> CONDITIONS / LOOPS
-14/02/2023 --> 
-15/02/2023 -->
-16/02/2023 -->
-17/02/2023 -->
+NOTEBOOKS con casos en PYTHON:
+
+
+
+
+
+
+
+
