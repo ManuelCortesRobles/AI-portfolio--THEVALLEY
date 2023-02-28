@@ -1,4 +1,4 @@
-# AI_Porfolio__THEVALLEY
+# AI_Portfolio__THEVALLEY
 
 NOTEBOOKS con casos en PYTHON:
 
